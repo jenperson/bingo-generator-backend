@@ -99,5 +99,5 @@ This application follows NestJS best practices:
 
 ## License
 
-ISC
+[Apache 2.0](LICENSE)
 
